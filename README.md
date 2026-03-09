@@ -8,8 +8,15 @@ I am a game developer passionate about robust system design, 3d modeling, and cr
 * Integrating Ai tools into my workflow for shader writing and advanced coding.
 
 ### 💼 Professional Experience
-* Handled coding tasks and assisted with the Steam port releases for **Oroboros** and **Goka**.
-* Developed multiplayer systems for **KissCargo** utilizing the Normcore framework.
+
+* **[OROBOROS](https://store.steampowered.com/app/4019450/OROBOROS/)**
+  Solely responsible for the complete Steam port during my time at Blay Games. I independently managed all codebase adaptations and UI implementations required for a successful release on the platform.
+
+* **[GOKA](https://store.steampowered.com/app/2776660/GOKA_Street/)**
+  Assisted with core coding tasks and supported the Steam port release process.
+
+* **[KissCargo](https://store.steampowered.com/app/4277540/Kiss_Cargo/)**
+  Developed multiplayer systems utilizing the Normcore framework.
 
 ### 🎮 Featured Projects
 
