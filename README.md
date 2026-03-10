@@ -39,6 +39,8 @@ I am a game developer passionate about robust system design, 3d modeling, and cr
 * **[Dance-Battle](https://github.com/Astrobotiq/Dance-Battle)**
   A turn-based card game with a vibrant disco aesthetic. I built a flexible card effect system leveraging Unity's **ScriptableObjects**. By creating an abstract base class with distinct effect types (Damage, Block, Multiplier, etc.), I ensured that adding new cards and unique abilities to the core battle mechanics was highly modular and efficient.
 
+  ![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/7469fa6c-8ab4-4103-952b-cb093d703c00)
+
 ---
 ### 📫 Let us connect!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koselerlie@gmail.com)
