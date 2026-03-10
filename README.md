@@ -31,6 +31,8 @@ I am a game developer passionate about robust system design, 3d modeling, and cr
 * **[Rock The Game](https://github.com/Astrobotiq/RockTheGame)**
   A platformer that served as my deep dive into Unity, where I handled design, coding, and art. The core mechanic is a grappling hook, originally built using Unity's built-in physics and **Spring Joints**. While I would write a custom physics solution today, building this mechanic was an incredibly fun and foundational learning experience.
 
+  ![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/b259e664-5398-4496-8dac-b98dc4bfffdd)
+
 * **[Shh, Do Not Wake The Baby!](https://github.com/Astrobotiq/Shh-Do-Not-Wake-The-Baby)**
   A unique tower defense game created for a game design course. Players must defeat enemies without waking a sleeping baby. I implemented a **Grid system** for placing obstacles and utilized a **Runtime NavMesh** that dynamically updates enemy pathfinding as players build defenses. Obstacles also feature unique behaviors, such as dealing damage or applying knock-down effects.
 
