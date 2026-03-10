@@ -26,6 +26,8 @@ I am a game developer passionate about robust system design, 3d modeling, and cr
 * **[Dungeon](https://github.com/Astrobotiq/Dungeon)**
   A 3d tactical game inspired by Into The Breach, reimagined with a Viking-era children's game theme, co-developed as a university capstone project. I designed a **Utility Ai** system that dynamically evaluates the environment—calculating optimal attack positions while actively avoiding hazardous zones to create responsive enemy behaviors.
 
+  ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0c277484-7743-4a09-bd90-7573b5a931c2)
+
 * **[Rock The Game](https://github.com/Astrobotiq/RockTheGame)**
   A platformer that served as my deep dive into Unity, where I handled design, coding, and art. The core mechanic is a grappling hook, originally built using Unity's built-in physics and **Spring Joints**. While I would write a custom physics solution today, building this mechanic was an incredibly fun and foundational learning experience.
 
