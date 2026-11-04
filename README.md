@@ -73,12 +73,12 @@ Earlier: maintained the live mobile title *Alice in Blastland* at Blay Games, an
       <img src="https://github.com/user-attachments/assets/b259e664-5398-4496-8dac-b98dc4bfffdd" alt="Gameplay of the grappling hook platformer">
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/Astrobotiq/RockTheGame">Slingshot</a></h3>
-      <sub>2D precision platformer · Unity, C# · in development · repo: RockTheGame</sub>
+      <h3><a href="https://github.com/Astrobotiq/RockTheGame">Rock The Game</a></h3>
+      <sub>2D precision platformer · Unity, C# · solo · in development</sub>
       <ul>
         <li>Replaced my first Spring Joint grapple with a custom kinematic controller that handles its own collision, ground and wall sensing</li>
         <li>Player logic built on the State pattern: dash, wall slide and climb, ledge climb, swing, dual swing, slingshot</li>
-        <li>22 EditMode tests covering movement logic and tuning data</li>
+        <li>22 EditMode tests covering platform movement, rotation tracking and tuning data</li>
       </ul>
     </td>
   </tr>
