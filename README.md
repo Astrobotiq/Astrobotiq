@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://astrobotiq.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00b9be?style=flat-square" alt="Portfolio"></a>
-    <a href="https://www.linkedin.com/in/eren-k%C3%B6selerli/"><img src="https://img.shields.io/badge/LinkedIn-15788c?style=flat-square" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/eren-koselerli/"><img src="https://img.shields.io/badge/LinkedIn-15788c?style=flat-square" alt="LinkedIn"></a>
     <a href="mailto:koselerlie@gmail.com"><img src="https://img.shields.io/badge/Email-ff6973?style=flat-square" alt="Email"></a>
   </p>
 </div>
